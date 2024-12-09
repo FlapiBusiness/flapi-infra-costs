@@ -23,7 +23,7 @@
 | **AWS Route 53 (HostedZone)**   | 0.50 USD x 1 (par Hosted Zone)       | - | - | - |
 | **AWS Route 53 (DNS-Queries)**  | 0.40 USD per 1,000,000 queries       | - | - | - |
 | **AWS Route 53 (Health Checks)**| 0.75 USD per Health Check for Health Checks of non-AWS endpoints (0.75 x 2 actuellement) | - | - | - |
-| **Nom de domaine**          | 14 USD (14$ par domaine x 1, par an) | - | - | - |
+| **Nom de domaine**          | 14 USD (14$ par domaine x 1 par an actuellement) | - | - | - |
 
 **Remarque** : 
 - Les coûts des services AWS peuvent varier en fonction de la région et de l'utilisation réelle des ressources. Il est recommandé d'utiliser le calculateur de tarification AWS pour obtenir une estimation plus précise en fonction des besoins spécifiques.
