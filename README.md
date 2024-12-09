@@ -49,6 +49,6 @@
 ---
 
 ## Clients
-| Service                                  | Frais mensuels  |
-|------------------------------------------|-----------------|
-|                                          |                 |
+| Client             | Applications          | Domaine               |
+|--------------------|-----------------------|-----------------------|
+| Client A	         | App Restaurent	       | restaurent.flapi.org	 |
