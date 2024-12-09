@@ -44,7 +44,7 @@
 | **O2Switch**                             | 105€            | -                |
 | **Apple licence**                        | 100€            | -                |
 | **Android licence**                      | -               | 25€              |
-| **Certificat de signature de code Windows Azure** | 590€   | -                |
+| **Certificat de signature de code Windows - Azure Key Vault** | 590€   | -                |
 | **NPM Pro**                              | 120€            | -                |
 
 <br />
