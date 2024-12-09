@@ -20,10 +20,10 @@
 | **Network Load Balancer**       | 19,44 USD x 1 actuellement | 0,006 USD/Go                    | 6,00 USD           | 25,44 USD                    |
 | **Global Accelerator**          | 18 USD x 1 actuellement    | 0,015 USD/Go                    | 15 USD             | 33,00 USD                    |
 | **EC2 Trafic Sortant**          | -                          | 100 Go gratuits, puis 0,09 USD/Go | 81 USD           | 81,00 USD                    |
-| **AWS Route 53 (HostedZone)**   | 0.50 USD x 1 (par Hosted Zone)       | - | - | - |
+| **AWS Route 53 (HostedZone)**   | 0.50 USD x 1 actuellement (par Hosted Zone)       | - | - | - |
 | **AWS Route 53 (DNS-Queries)**  | 0.40 USD per 1,000,000 queries       | - | - | - |
-| **AWS Route 53 (Health Checks)**| 0.75 USD per Health Check for Health Checks of non-AWS endpoints (0.75 x 2 actuellement) | - | - | - |
-| **Nom de domaine**          | 14 USD (14$ par domaine x 1 par an actuellement) | - | - | - |
+| **AWS Route 53 (Health Checks)**| 0.75 USD x 2 per Health Check for Health Checks of non-AWS endpoints (2 actuellement) | - | - | - |
+| **Nom de domaine**              | 14 USD x 1 (14$ par domaine x 1 par an actuellement) | - | - | - |
 
 **Remarque** : 
 - Les coûts des services AWS peuvent varier en fonction de la région et de l'utilisation réelle des ressources. Il est recommandé d'utiliser le calculateur de tarification AWS pour obtenir une estimation plus précise en fonction des besoins spécifiques.
