@@ -42,7 +42,7 @@
 | **Apple licence**                        | 100€            |
 | **Android licence**                      | 25€ à vie       |
 | **Certificat de signature de code Windows Azure** | 590€   |
-| **NPM Pro                                | 120€            |
+| **NPM Pro**                              | 120€            |
 
 <br />
 
