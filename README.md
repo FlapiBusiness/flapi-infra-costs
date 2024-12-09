@@ -35,17 +35,17 @@
 
 ## Services Others - Internal
 
-| Service                                  | Frais annuel    |
-|------------------------------------------|-----------------|
-| **DockerHub Pro**                        | 60€             |
-| **Gitkraken**                            | 60€             |
-| **ChatGPT**                              | 260€            |
-| **Github Entreprise**                    | 240€            |
-| **O2Switch**                             | 105€            |
-| **Apple licence**                        | 100€            |
-| **Android licence**                      | 25€ à vie       |
-| **Certificat de signature de code Windows Azure** | 590€   |
-| **NPM Pro**                              | 120€            |
+| Service                                  | Frais annuel    | Frais mais à vie |
+|------------------------------------------|-----------------|------------------|
+| **DockerHub Pro**                        | 60€             | -                |
+| **Gitkraken**                            | 60€             | -                |
+| **ChatGPT**                              | 260€            | -                |
+| **Github Entreprise**                    | 240€            | -                |
+| **O2Switch**                             | 105€            | -                |
+| **Apple licence**                        | 100€            | -                |
+| **Android licence**                      | 25€             | 25€              |
+| **Certificat de signature de code Windows Azure** | 590€   | -                |
+| **NPM Pro**                              | 120€            | -                |
 
 <br />
 
