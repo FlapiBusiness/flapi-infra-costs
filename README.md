@@ -1,4 +1,4 @@
-# Flapi - Tarification de l'infrastructure
+# Flapi - Infrastructure pricing
 
 ## Services OVH - Internal
 
