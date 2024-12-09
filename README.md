@@ -13,11 +13,15 @@
 | **Certificat de signature de code Windows Azure** | 590€      |
 | **ProxyCheckIO**                         | 128€ (11.91$/mois) |
 
+<br />
+
 ## Services OVH
 
 | Service                                   | Frais mensuels |
 |------------------------------------------|-----------------|
 | **VPS (5)**                              | 17,50€          |
+
+<br />
 
 ## Services AWS
 
