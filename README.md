@@ -10,7 +10,8 @@
 | **Github Entreprise**                    | 240€            |
 | **O2Switch**                             | 100€            |
 | **Apple licence**                        | 100€            |
-| **Certificat de signature de code Windows Azure** | 590€      |
+| **Android licence**                      | 25€ à vie       |
+| **Certificat de signature de code Windows Azure** | 590€   |
 | **ProxyCheckIO**                         | 128€ (11.91$/mois) |
 
 <br />
