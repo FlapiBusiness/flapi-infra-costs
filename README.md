@@ -1,10 +1,10 @@
 # Flapi - Tarification de l'infrastructure
 
-## Services OVH
+## Services OVH - Internal
 
 | Service                                   | Frais mensuels |
-|------------------------------------------|-----------------|
-| **VPS (5)**                              | 17,50€          |
+|-------------------------------------------|----------------|
+| **VPS (6)**                               | 21,50€         |
 
 <br />
 
