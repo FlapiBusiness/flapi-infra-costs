@@ -8,6 +8,7 @@
 | **Server dédié (1)**                      | 59,99€         |
 
 **Remarque** : Server dédié à supprimer de chez OVH plus tard, en attendant d'avoir les moyens pour louer plutôt des instances EC2 AWS, à la place !
+
 <br />
 
 ---
