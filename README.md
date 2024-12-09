@@ -1,6 +1,6 @@
 # Flapi - Infrastructure pricing
 
-## Services OVH - Internal
+## Services OVH
 
 | Service                                   | Frais mensuels |
 |-------------------------------------------|----------------|
@@ -13,7 +13,7 @@
 
 ---
 
-## Services AWS - Internal
+## Services AWS
 
 | Service                         | Frais fixes mensuels | Frais par Go                    | Coût pour 1 000 Go | Total (Frais fixes + 1000Go) |
 |---------------------------------|----------------------|---------------------------------|--------------------|------------------------------|
@@ -33,7 +33,7 @@
 
 ---
 
-## Services Others - Internal
+## Services Others
 
 | Service                                  | Frais annuel    | Frais mais à vie |
 |------------------------------------------|-----------------|------------------|
