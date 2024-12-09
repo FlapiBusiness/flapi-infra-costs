@@ -12,7 +12,6 @@
 | **Apple licence**                        | 100€            |
 | **Android licence**                      | 25€ à vie       |
 | **Certificat de signature de code Windows Azure** | 590€   |
-| **ProxyCheckIO**                         | 128€ (11.91$/mois) |
 
 <br />
 
