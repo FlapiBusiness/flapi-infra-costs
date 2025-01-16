@@ -37,7 +37,7 @@
 
 | Service                                  | Frais annuel    | Frais mais à vie |
 |------------------------------------------|-----------------|------------------|
-| **DockerHub Pro**                        | 60€             | -                |
+| **DockerHub Pro**                        | 105€             | -                |
 | **Gitkraken**                            | 70€             | -                |
 | **ChatGPT**                              | 260€            | -                |
 | **Github Entreprise**                    | 240€            | -                |
